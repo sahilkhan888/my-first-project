@@ -1,2 +1,3 @@
 I learned to use terminal commands, hide a folder in terminal, navigation and push pull on github
 adding the second line here
+adding the third and final line
