@@ -1,1 +1,1 @@
-my first project file
+this is my first git project
